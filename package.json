@@ -1,0 +1,22 @@
+{
+  "name": "bitmovin-phongle",
+  "version": "1.0.3",
+  "description": "These examples are build around the Adaptive Streaming Player, demonstrating usage and capabilities of the HTML5 based HLS and MPEG-DASH player.",
+  "main": "index.html",
+  "homepage": "https://github.com/plphongpctcr/bitmovin-phongle",
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-huukhoa": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plphongpctcr/bitmovin-phongle"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Streaming", "player"],
+  "author": "plphongpctcr",
+  "license": "MIT"
+}
